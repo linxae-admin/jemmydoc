@@ -1,0 +1,13 @@
+org.jemmy
+org.jemmy.action
+org.jemmy.control
+org.jemmy.dock
+org.jemmy.env
+org.jemmy.image
+org.jemmy.image.pixel
+org.jemmy.input
+org.jemmy.interfaces
+org.jemmy.lookup
+org.jemmy.operators
+org.jemmy.resources
+org.jemmy.timing
